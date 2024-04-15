@@ -17,6 +17,9 @@
 		<S_ACCTBAL>4032.68</S_ACCTBAL>
 		<S_COMMENT>furiously stealthy frays thrash alongside of the slyly express deposits. blithely regular req</S_COMMENT>
 	</T>
+	<E>
+		<DUP>2</DUP>
+	</E>
 	<T>
 		<S_SUPPKEY>3</S_SUPPKEY>
 		<S_NAME>Supplier#000000003</S_NAME>
