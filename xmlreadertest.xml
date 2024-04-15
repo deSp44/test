@@ -4,7 +4,7 @@
 		<S_NAME>Supplier#000000001</S_NAME>
 		<S_ADDRESS> N kD4on9OM Ipw3,gf0JBoQDd7tgrzrddZ</S_ADDRESS>
 		<S_NATIONKEY>17</S_NATIONKEY>
-		<S_PHONE>27-918-335-1736</S_PHONE>
+		<S_PHONE><![CDATA[This text contains a CEND ]]]]><![CDATA[>]]></S_PHONE>
 		<S_ACCTBAL>5755.94</S_ACCTBAL>
 		<S_COMMENT>requests haggle carefully. accounts sublate finally. carefully ironic pa</S_COMMENT>
 	</T>
