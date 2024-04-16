@@ -15,6 +15,11 @@
 		<S_NATIONKEY>5</S_NATIONKEY>
 		<S_PHONE>15-679-861-2259</S_PHONE>
 		<S_ACCTBAL>4032.68</S_ACCTBAL>
+		<attrs>
+                	<a name="Producent"><![CDATA[Greenie]]></a>
+           		<a name="Kod producenta"><![CDATA[ALERTINGINGER]]></a>
+               		<a name="EAN"><![CDATA[42069131]]></a>
+            	</attrs>
 		<S_COMMENT>furiously stealthy frays thrash alongside of the slyly express deposits. blithely regular req</S_COMMENT>
 	</T>
 	<E>
