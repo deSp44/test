@@ -9,7 +9,7 @@
 		<S_COMMENT>requests haggle carefully. accounts sublate finally. carefully ironic pa</S_COMMENT>
 	</T>
 	<T>
-		<S_SUPPKEY>2</S_SUPPKEY>
+		<S_SUPPKEY value="11">2</S_SUPPKEY>
 		<S_NAME>Supplier#000000002</S_NAME>
 		<S_ADDRESS>89eJ5ksX3ImxJQBvxObC,</S_ADDRESS>
 		<S_NATIONKEY>5</S_NATIONKEY>
