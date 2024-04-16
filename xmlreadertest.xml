@@ -1,4 +1,4 @@
-<table ID="supplier">
+<table ID="supplier" EAN="1235" PIM="hahaha">
 	<T>
 		<S_SUPPKEY>1</S_SUPPKEY>
 		<S_NAME>Supplier#000000001</S_NAME>
